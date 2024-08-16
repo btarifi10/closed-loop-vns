@@ -1,0 +1,4 @@
+Params: {'num_conv_layers': 2, 'num_fc_layers': 0, 'learning_rate': 0.001, 'num_filters_1_stimulus': 64, 'kernel_size_1_stimulus': 2, 'stride_1_stimulus': 1, 'pool_size_1_stimulus': 3, 'num_filters_2_stimulus': 8, 'kernel_size_2_stimulus': 3, 'stride_2_stimulus': 3, 'pool_size_2_stimulus': 4, 'num_filters_1_response': 32, 'kernel_size_1_response': 4, 'stride_1_response': 2, 'pool_size_1_response': 2, 'num_filters_2_response': 16, 'kernel_size_2_response': 3, 'stride_2_response': 1, 'pool_size_2_response': 3}
+
+Total params: 11,178 (43.66 KB)
+Trainable params: 11,178 (43.66 KB)

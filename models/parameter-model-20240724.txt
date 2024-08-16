@@ -1,0 +1,4 @@
+Params: {'n_layers': 3, 'learning_rate': 0.001, 'activation': 'relu', 'use_batch_norm': False, 'use_dropout': False, 'layer_size': 43}
+
+Total params: 4,133 (16.14 KB)
+Trainable params: 4,133 (16.14 KB)
