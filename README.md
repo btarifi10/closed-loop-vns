@@ -13,3 +13,11 @@ This repository focuses on the machine learning aspects of developing closed-loo
 🌟 Machine Learning Models:
 * Amplitude estimation model: Best-performing with a normalised test mean squared error (MSE) of 0.0102.
 * Activation level prediction model: Best-performing CNN model achieving a normalized test MSE of 0.0010.
+
+🛠 Requirements:
+* Python 3.x with TensorFlow or PyTorch for machine learning.
+* Access to the in silico datasets from the vns-ascent-models repo.
+
+🔄 Future Directions:
+* Implementing closed-loop control frameworks for patient-specific learning.
+* Real-time VNS feedback with machine learning-driven adjustments.
